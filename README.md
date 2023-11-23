@@ -57,7 +57,7 @@
 
 ### 시스템 구성
 
-<img src="https://github.com/HarrysK99/Climbing-AV/assets/81846798/5b33de75-c138-4fa5-9202-35c80aa5ba83" width="500" height="400"> <img src="https://github.com/HarrysK99/Climbing-AV/assets/81846798/51d135c8-ac69-4d7a-a287-c3446e49bfdb" width="500" height="400">
+<img src="https://github.com/HarrysK99/Climbing-AV/assets/81846798/5b33de75-c138-4fa5-9202-35c80aa5ba83" width="400" height="320"> <img src="https://github.com/HarrysK99/Climbing-AV/assets/81846798/51d135c8-ac69-4d7a-a287-c3446e49bfdb" width="400" height="320">
 - **IMU**: 각변위, 각속도 측정, 바디 또는 각 캐터필러의 현재 기울기를 파악함.
 - **초음파 센서**: 센서와 물체가 이격되어 있는 거리 측정, 계단 각도 구하기 위해 사용.
 - **적외선 센서**: 일정 거리 안쪽에 물체가 있으면 신호를 주고 그렇지 않으면 신호를 보내지 않음. 전륜과 후륜의 타코미터 역할 및 전륜 캐터필러와 계단이 닿아있는지 확인할 때 사용.
